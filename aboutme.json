@@ -1,26 +1,5 @@
 [
   {
-    "name": "I found interest in App Development, I really enjoy making applications.",
-    "species": "Im a Beginner in App Development, Im doing my best to develop my skills in it and publish my own Application.",
-    "foods": {
-      "likes": [ "tuna", "catnip" ],
-      "dislikes": [ "ham", "zucchini" ]
+    "name": "The name is Sophia Demcy D. Simbulan, I'm currently studying in Pambayang Dalubhasaan ng Marilao. I'm taking the course Computer Science"
     }
-  },
-  {
-    "name": "Barky",
-    "species" : "dog",
-    "foods": {
-      "likes": ["bones", "carrots"],
-      "dislikes": ["tuna"]
-    }
-  },
-  {
-    "name": "Purrpaws",
-    "species" : "cat",
-    "foods": {
-      "likes": ["mice"],
-      "dislikes": ["cookies"]
-    }
-  }
 ]
